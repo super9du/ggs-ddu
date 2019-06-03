@@ -4,7 +4,7 @@
 
 ## 项目说明
 
-最近在网络上看到了许多大学都在Github上开课了，这是个造福大众的事情。所以在这里搞了一个仓库来集中收集这些学校的课程，便于大家更方便地获取学习资源。
+最近在网络上看到了许多大学都在Github上开课了，这是个造福大众的事情。所以在这里搞了一个仓库来集中收集这些学校的课程，便于大家更方便、更广泛地获取学习资源。
 
 为了保证链接中开源课程的质量以及防止该仓库被教育机构用于打广告，本项目只收录知名大学课程。
 
@@ -14,7 +14,7 @@
 
 为了保证课程目录尽可能的全，我搜索了Github上所有带有“大学”“课程”的项目（很遗憾“码云”上没有……）。我也**希望广大网友可以帮助我一起完善这个项目。**只要是学校同意公开的有价值的学习资料，都欢迎加入本项目的链接。
 
-这也是我第一次使用Github发布仓库，对许多功能还不太了解，也希望各位能够多多指教。
+**希望日后的开源课程均能被本页面收录，也将本页作为友情链接，互为平台，扩大各自影响力。**这也是我第一次使用Github发布仓库，对许多功能还不太了解，也希望各位能够多多指教。
 
 ## 正文
 
@@ -23,11 +23,13 @@
 | 项目名                                                       | Start       | 备注                                                         |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
 | [北大课程资料民间整理](https://github.com/lib-pku/libpku)    | :star:17.9K​ | 内容最全面，覆盖各个专业课程、公开课、英语课、通选课等       |
-| [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) | :star:11.6K | 主要为信息技术课程（较全面），还包括化学、英语等课程         |
+| [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) | :star:11.6K | 主要为信息技术课程（较全面），还包括化学、英语等课程。[快速通道](https://qsctech.github.io/zju-icicles/) |
 | [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT) | :star:7.5K  | 分学期列出了学习内容                                         |
 | [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) | :star:6.4K  | 主要为计算机相关课程，给出了计算机学院的培养方案             |
 | [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare) | :star:436   | 仔细看readme的使用方法，有些branch是空的                     |
+| [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam) | :star:278​   | 计算机相关课程                                               |
 | [武汉大学课程资料整理-WHU课代表计划](https://github.com/openwhu/OpenWHU) | :star:48​    | 主要为信息技术课程和环境科学课程                             |
+| [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials) | :star:43    | [快速通道](https://onedrive.idealclover.top)                 |
 | [东南大学软件学院课程资料](https://github.com/ChangWinde/SouthEastUniversity) | :star:24​    | 东南大学个人整理的资料                                       |
 | [北京邮电大学 数学系 信息与计算科学专业 课件](https://github.com/luochang212/BUPT-ICS-Courseware) | :star:6​     | 北邮号称程序员的梦工厂，此仓库PPT较多（做程序员的推荐看这个） |
 

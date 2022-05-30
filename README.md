@@ -27,6 +27,7 @@
 | [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT) | :star:7.5K  | 分学期列出了学习内容                                         |
 | [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) | :star:6.4K  | 主要为计算机相关课程，给出了计算机学院的培养方案             |
 | [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses) | :star:4.2k  | 计算机相关课程                                               |
+|[电子科技大学课程资源共享平台](https://github.com/Xovee/uestc-course)|:star:1.1K|包括各种课程的期末复习资料和历年真题|
 | [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare) | :star:436   | 仔细看readme的使用方法，有些branch是空的                     |
 | [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam) | :star:278   | 计算机相关课程                                               |
 | [武汉大学课程资料整理-WHU课代表计划](https://github.com/openwhu/OpenWHU) | :star:53    | 主要为信息技术课程和环境科学课程                             |
